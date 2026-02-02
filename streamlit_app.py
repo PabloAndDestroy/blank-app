@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date
-
+#fine
 st.set_page_config(layout="wide")
 
 # -------- Tabs superiores --------
